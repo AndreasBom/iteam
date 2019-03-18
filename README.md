@@ -1,4 +1,8 @@
 # Movie search API   
+
+#### Installera   
+Börja med att installera dependencies:    
+npm install   
       
 #### Köra testerna   
 npm run test
@@ -10,8 +14,7 @@ npm run lint
 Applikationen och databasen kan köras på localhost eller i docker. 
 Det enklaste är att köra både applikation och databas i docker.
 
-för att köra igång kör:  
-npm install     
+för att köra igång kör:    
 docker-compose build   
 docker-compose up    
 
